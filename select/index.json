@@ -1,0 +1,232 @@
+{
+  "version": 1,
+  "base_track": "LIFE",
+  "base_artist": "Kimaguren",
+  "createdAt": "2025-12-02T20:41:32.991125Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Good Life",
+      "artist": "Kip Moore",
+      "has_synced": true,
+      "path": "select/01_Good_Life_Kip_Moore.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Life is a Highway",
+      "artist": "Rascal Flatts",
+      "has_synced": true,
+      "path": "select/02_Life_is_a_Highway_Rascal_Flatts.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Lush Life",
+      "artist": "Zara Larsson",
+      "has_synced": true,
+      "path": "select/03_Lush_Life_Zara_Larsson.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Walk Of Life",
+      "artist": "Dire Straits",
+      "has_synced": true,
+      "path": "select/04_Walk_Of_Life_Dire_Straits.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Y'all Life",
+      "artist": "Walker Hayes",
+      "has_synced": true,
+      "path": "select/05_Y'all_Life_Walker_Hayes.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Life / Death",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/06_Life___Death_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Life\u0000Death",
+      "artist": "King Gizzard and the Lizard Wizard",
+      "has_synced": true,
+      "path": "select/07_Life\u0000Death_King_Gizzard_and_the_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Life Is Cool",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": false,
+      "path": "select/08_Life_Is_Cool_King_Gizzard_&_The_Lizard_Wizard.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Life Is Cool",
+      "artist": "King Gizzard and the Lizard Wizard",
+      "has_synced": false,
+      "path": "select/09_Life_Is_Cool_King_Gizzard_and_the_Lizard_Wizard.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Awful Beautiful Life",
+      "artist": "Darryl Worley",
+      "has_synced": true,
+      "path": "select/10_Awful_Beautiful_Life_Darryl_Worley.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Awful Beautiful Life (Album Version)",
+      "artist": "Darryl Worley",
+      "has_synced": true,
+      "path": "select/11_Awful_Beautiful_Life_(Album_Version)_Darryl_Worley.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Back To Life",
+      "artist": "Rascal Flatts",
+      "has_synced": true,
+      "path": "select/12_Back_To_Life_Rascal_Flatts.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Back To Life",
+      "artist": "Rascal Flatts",
+      "has_synced": true,
+      "path": "select/13_Back_To_Life_Rascal_Flatts.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Better Life",
+      "artist": "Keith Urban",
+      "has_synced": true,
+      "path": "select/14_Better_Life_Keith_Urban.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Doing Life With Me",
+      "artist": "Eric Church",
+      "has_synced": true,
+      "path": "select/15_Doing_Life_With_Me_Eric_Church.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Doing Life With Me",
+      "artist": "Eric Church",
+      "has_synced": true,
+      "path": "select/16_Doing_Life_With_Me_Eric_Church.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Drivin' My Life Away",
+      "artist": "Eddie Rabbitt",
+      "has_synced": true,
+      "path": "select/17_Drivin'_My_Life_Away_Eddie_Rabbitt.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Drivin' My Life Away (2009 Remaster)",
+      "artist": "Eddie Rabbitt",
+      "has_synced": true,
+      "path": "select/18_Drivin'_My_Life_Away_(2009_Remaster)_Eddie_Rabbitt.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "LIFE",
+      "artist": "キマグレン",
+      "has_synced": false,
+      "path": "select/pl_01_LIFE_キマグレン.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "LIFE",
+      "artist": "キマグレン",
+      "has_synced": false,
+      "path": "select/pl_02_LIFE_キマグレン.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "LIFE",
+      "artist": "キマグレン",
+      "has_synced": false,
+      "path": "select/pl_03_LIFE_キマグレン.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "LIFE",
+      "artist": "キマグレン",
+      "has_synced": false,
+      "path": "select/pl_04_LIFE_キマグレン.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "LIFE",
+      "artist": "キマグレン",
+      "has_synced": false,
+      "path": "select/pl_05_LIFE_キマグレン.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "LIFE",
+      "artist": "キマグレン",
+      "has_synced": false,
+      "path": "select/pl_06_LIFE_キマグレン.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "LIFE",
+      "artist": "キマグレン",
+      "has_synced": false,
+      "path": "select/pl_07_LIFE_キマグレン.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "LIFE",
+      "artist": "キマグレン",
+      "has_synced": false,
+      "path": "select/pl_08_LIFE_キマグレン.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "LIFE",
+      "artist": "キマグレン",
+      "has_synced": false,
+      "path": "select/pl_09_LIFE_キマグレン.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "LIFE",
+      "artist": "キマグレン",
+      "has_synced": false,
+      "path": "select/pl_10_LIFE_キマグレン.txt"
+    }
+  ]
+}
